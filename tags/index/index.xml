@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on JS: Portfolio</title>
-    <link>http://example.org/tags/index/</link>
+    <link>https://jshankarc.github.io/tags/index/</link>
     <description>Recent content in index on JS: Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://jshankarc.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -23,11 +23,11 @@
       
       <item>
         <title>Posts</title>
-        <link>http://example.org/posts/</link>
+        <link>https://jshankarc.github.io/posts/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</author>
         
-        <guid>http://example.org/posts/</guid>
+        <guid>https://jshankarc.github.io/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>

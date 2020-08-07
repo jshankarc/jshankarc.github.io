@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on JS: Portfolio</title>
-    <link>http://example.org/categories/</link>
+    <link>https://jshankarc.github.io/categories/</link>
     <description>Recent content in Categories on JS: Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://jshankarc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>syntax</title>
-        <link>http://example.org/categories/syntax/</link>
+        <link>https://jshankarc.github.io/categories/syntax/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</author>
         
-        <guid>http://example.org/categories/syntax/</guid>
+        <guid>https://jshankarc.github.io/categories/syntax/</guid>
         <description></description>
         
         <dc:creator>Jayashankar Chaluvaraj</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>themes</title>
-        <link>http://example.org/categories/themes/</link>
+        <link>https://jshankarc.github.io/categories/themes/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</author>
         
-        <guid>http://example.org/categories/themes/</guid>
+        <guid>https://jshankarc.github.io/categories/themes/</guid>
         <description></description>
         
         <dc:creator>Jayashankar Chaluvaraj</dc:creator>
