@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Posts on A Data Science Portfolio: Jay</title>
+    <title>Posts on Jay - Tech Blog</title>
     <link>https://jshankarc.github.io/posts/</link>
-    <description>Recent content in Posts on A Data Science Portfolio: Jay</description>
+    <description>Recent content in Posts on Jay - Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</managingEditor>
