@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Themes Guide on A Data Science Portfolio: Jay</title>
-    <link>https://jshankarc.github.io/series/themes-guide/</link>
-    <description>Recent content in Themes Guide on A Data Science Portfolio: Jay</description>
+    <title>Elastic Search on A Data Science Portfolio: Jay</title>
+    <link>https://jshankarc.github.io/categories/elastic-search/</link>
+    <description>Recent content in Elastic Search on A Data Science Portfolio: Jay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</managingEditor>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://jshankarc.github.io/series/themes-guide/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://jshankarc.github.io/categories/elastic-search/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -53,53 +53,6 @@ Elastic Stack is powerful, interesting and easy to get started with some basic k
           
             
               <category>Elastic Search</category>
-            
-          
-        
-        
-          
-            
-              <category>Themes Guide</category>
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Message Tracking Solution using Apache Camel, JBoss Fuse, Elastic Stack and Syslog</title>
-        <link>https://jshankarc.github.io/posts/log-msg-tracking-solution/</link>
-        <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
-        <author>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</author>
-        <atom:modified>Fri, 08 Sep 2017 00:00:00 +0000</atom:modified>
-        <guid>https://jshankarc.github.io/posts/log-msg-tracking-solution/</guid>
-        <description>Note: This post is originally from my https://jshankarc.blogspot.com and now moved it to github pages.
-Introduction It was long time plan to write a blog on Apache Camel and finally came up with an idea that felt interesting to me and hope you will enjoy it.
-The solution to integrate camel with Jboss Fuse, Syslog and Elastic Stack eventually becomes a design.
-I would like to start by stating a problem and then discuss about solving it step by step.</description>
-        
-        <dc:creator>Jayashankar Chaluvaraj</dc:creator>
-        <media:content url="https://jshankarc.github.ioimages/post_2/log-processing-design.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>ELK</category>
-            
-          
-            
-              <category>Elastic Search</category>
-            
-          
-        
-        
-          
-            
-              <category>JBoss Fuse</category>
-            
-          
-            
-              <category>Apache Camel</category>
             
           
         

@@ -14,7 +14,7 @@
     <managingEditor>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</managingEditor>
     <webMaster>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://jshankarc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,12 +23,12 @@
 
       
       <item>
-        <title>css</title>
-        <link>https://jshankarc.github.io/tags/css/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <title>Elastic Search</title>
+        <link>https://jshankarc.github.io/tags/elastic-search/</link>
+        <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
         <author>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</author>
         
-        <guid>https://jshankarc.github.io/tags/css/</guid>
+        <guid>https://jshankarc.github.io/tags/elastic-search/</guid>
         <description></description>
         
         <dc:creator>Jayashankar Chaluvaraj</dc:creator>
@@ -41,48 +41,12 @@
       </item>
       
       <item>
-        <title>html</title>
-        <link>https://jshankarc.github.io/tags/html/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <title>ELK</title>
+        <link>https://jshankarc.github.io/tags/elk/</link>
+        <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
         <author>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</author>
         
-        <guid>https://jshankarc.github.io/tags/html/</guid>
-        <description></description>
-        
-        <dc:creator>Jayashankar Chaluvaraj</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>markdown</title>
-        <link>https://jshankarc.github.io/tags/markdown/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</author>
-        
-        <guid>https://jshankarc.github.io/tags/markdown/</guid>
-        <description></description>
-        
-        <dc:creator>Jayashankar Chaluvaraj</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>themes</title>
-        <link>https://jshankarc.github.io/tags/themes/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</author>
-        
-        <guid>https://jshankarc.github.io/tags/themes/</guid>
+        <guid>https://jshankarc.github.io/tags/elk/</guid>
         <description></description>
         
         <dc:creator>Jayashankar Chaluvaraj</dc:creator>

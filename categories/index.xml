@@ -14,7 +14,7 @@
     <managingEditor>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</managingEditor>
     <webMaster>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://jshankarc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,12 +23,12 @@
 
       
       <item>
-        <title>syntax</title>
-        <link>https://jshankarc.github.io/categories/syntax/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <title>Elastic Search</title>
+        <link>https://jshankarc.github.io/categories/elastic-search/</link>
+        <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
         <author>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</author>
         
-        <guid>https://jshankarc.github.io/categories/syntax/</guid>
+        <guid>https://jshankarc.github.io/categories/elastic-search/</guid>
         <description></description>
         
         <dc:creator>Jayashankar Chaluvaraj</dc:creator>
@@ -41,12 +41,30 @@
       </item>
       
       <item>
-        <title>themes</title>
-        <link>https://jshankarc.github.io/categories/themes/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <title>Apache Camel</title>
+        <link>https://jshankarc.github.io/categories/apache-camel/</link>
+        <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
         <author>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</author>
         
-        <guid>https://jshankarc.github.io/categories/themes/</guid>
+        <guid>https://jshankarc.github.io/categories/apache-camel/</guid>
+        <description></description>
+        
+        <dc:creator>Jayashankar Chaluvaraj</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>JBoss Fuse</title>
+        <link>https://jshankarc.github.io/categories/jboss-fuse/</link>
+        <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+        <author>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</author>
+        
+        <guid>https://jshankarc.github.io/categories/jboss-fuse/</guid>
         <description></description>
         
         <dc:creator>Jayashankar Chaluvaraj</dc:creator>

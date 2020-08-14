@@ -6,64 +6,21 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Themes Guide on A Data Science Portfolio: Jay</title>
-    <link>https://jshankarc.github.io/series/themes-guide/</link>
-    <description>Recent content in Themes Guide on A Data Science Portfolio: Jay</description>
+    <title>JBoss Fuse on A Data Science Portfolio: Jay</title>
+    <link>https://jshankarc.github.io/categories/jboss-fuse/</link>
+    <description>Recent content in JBoss Fuse on A Data Science Portfolio: Jay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</managingEditor>
     <webMaster>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://jshankarc.github.io/series/themes-guide/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://jshankarc.github.io/categories/jboss-fuse/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
-      
-      <item>
-        <title>Collect, Analyze and Visualize Jolokia Metrics Using Elastic Stack</title>
-        <link>https://jshankarc.github.io/posts/collect-analyze-visualize-jolokia-metrics-using-elk/</link>
-        <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-        <author>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</author>
-        <atom:modified>Mon, 16 Apr 2018 00:00:00 +0000</atom:modified>
-        <guid>https://jshankarc.github.io/posts/collect-analyze-visualize-jolokia-metrics-using-elk/</guid>
-        <description>Note: This post is originally from my https://jshankarc.blogspot.com and now moved it to github pages.
-Introduction The main motivation for developing this POC is to monitor CPU and memory usage of the 45 containers and the current tools or technology which were used does not provide out of the box features to enable it.
-I found ELK stack is the quickest and possible solution to solve this issue.
-Elastic Stack is powerful, interesting and easy to get started with some basic knowledge about the individual components and their integration patterns.</description>
-        
-        <dc:creator>Jayashankar Chaluvaraj</dc:creator>
-        <media:content url="https://jshankarc.github.ioimages/post_1/elk-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>ELK</category>
-            
-          
-            
-              <category>Elastic Search</category>
-            
-          
-        
-        
-          
-            
-              <category>Elastic Search</category>
-            
-          
-        
-        
-          
-            
-              <category>Themes Guide</category>
-            
-          
-        
-      </item>
       
       <item>
         <title>Message Tracking Solution using Apache Camel, JBoss Fuse, Elastic Stack and Syslog</title>

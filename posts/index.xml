@@ -14,7 +14,7 @@
     <managingEditor>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</managingEditor>
     <webMaster>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://jshankarc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,45 +23,83 @@
 
       
       <item>
-        <title>Markdown Syntax Guide</title>
-        <link>https://jshankarc.github.io/posts/markdown-syntax/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <title>Collect, Analyze and Visualize Jolokia Metrics Using Elastic Stack</title>
+        <link>https://jshankarc.github.io/posts/collect-analyze-visualize-jolokia-metrics-using-elk/</link>
+        <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
         <author>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</author>
-        <atom:modified>Fri, 20 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>https://jshankarc.github.io/posts/markdown-syntax/</guid>
-        <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+        <atom:modified>Mon, 16 Apr 2018 00:00:00 +0000</atom:modified>
+        <guid>https://jshankarc.github.io/posts/collect-analyze-visualize-jolokia-metrics-using-elk/</guid>
+        <description>Note: This post is originally from my https://jshankarc.blogspot.com and now moved it to github pages.
+Introduction The main motivation for developing this POC is to monitor CPU and memory usage of the 45 containers and the current tools or technology which were used does not provide out of the box features to enable it.
+I found ELK stack is the quickest and possible solution to solve this issue.
+Elastic Stack is powerful, interesting and easy to get started with some basic knowledge about the individual components and their integration patterns.</description>
         
-        <dc:creator>Choi</dc:creator>
-        <media:content url="https://jshankarc.github.ioimages/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <dc:creator>Jayashankar Chaluvaraj</dc:creator>
+        <media:content url="https://jshankarc.github.ioimages/post_1/elk-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
           
             
-              <category>markdown</category>
+              <category>ELK</category>
             
           
             
-              <category>css</category>
-            
-          
-            
-              <category>html</category>
-            
-          
-            
-              <category>themes</category>
+              <category>Elastic Search</category>
             
           
         
         
           
             
-              <category>themes</category>
+              <category>Elastic Search</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Message Tracking Solution using Apache Camel, JBoss Fuse, Elastic Stack and Syslog</title>
+        <link>https://jshankarc.github.io/posts/log-msg-tracking-solution/</link>
+        <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+        <author>jshankarc1@gmail.com (Jayashankar Chaluvaraj)</author>
+        <atom:modified>Fri, 08 Sep 2017 00:00:00 +0000</atom:modified>
+        <guid>https://jshankarc.github.io/posts/log-msg-tracking-solution/</guid>
+        <description>Note: This post is originally from my https://jshankarc.blogspot.com and now moved it to github pages.
+Introduction It was long time plan to write a blog on Apache Camel and finally came up with an idea that felt interesting to me and hope you will enjoy it.
+The solution to integrate camel with Jboss Fuse, Syslog and Elastic Stack eventually becomes a design.
+I would like to start by stating a problem and then discuss about solving it step by step.</description>
+        
+        <dc:creator>Jayashankar Chaluvaraj</dc:creator>
+        <media:content url="https://jshankarc.github.ioimages/post_2/log-processing-design.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>ELK</category>
             
           
             
-              <category>syntax</category>
+              <category>Elastic Search</category>
+            
+          
+        
+        
+          
+            
+              <category>JBoss Fuse</category>
+            
+          
+            
+              <category>Apache Camel</category>
             
           
         
