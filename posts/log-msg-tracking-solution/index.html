@@ -1246,7 +1246,7 @@
     <meta property="twitter:description" content="A Server Log Managing Architecture and Implementation">
   
 
-<meta name="generator" content="Hugo 0.73.0" />
+<meta name="generator" content="Hugo 0.74.3" />
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1317,7 +1317,7 @@
     
 </head>
 
-<body id="root" class="theme__dark">
+<body id="root" class="theme__light">
     <script>
         var localTheme = localStorage.getItem('theme');
         if (localTheme) {
@@ -1356,11 +1356,11 @@
       
         
         <a href="#" class="dropdown-item select-theme__item is-active">
-          dark
+          light
         </a>
         
         <a href="#" class="dropdown-item select-theme__item ">
-          light
+          dark
         </a>
         
         <a href="#" class="dropdown-item select-theme__item ">
@@ -1437,11 +1437,11 @@
       
         
         <a href="#" class="dropdown-item select-theme__item is-active">
-          dark
+          light
         </a>
         
         <a href="#" class="dropdown-item select-theme__item ">
-          light
+          dark
         </a>
         
         <a href="#" class="dropdown-item select-theme__item ">
@@ -2797,7 +2797,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (lib && lib.includes('mermaid')) {
       
-      var themeVariant = localStorage.getItem('theme') || JSON.parse("\"dark\"");
+      var themeVariant = localStorage.getItem('theme') || JSON.parse("\"light\"");
 
       if (themeVariant === "dark" || themeVariant === "hacker") {
         mermaid.initialize({ theme: 'dark' });
